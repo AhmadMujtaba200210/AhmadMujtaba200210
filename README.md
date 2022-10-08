@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Mujtaba</h1>
-<h3 align="center">A passionate backend developer from Pakistan</h3>
+<h3 align="center">A passionate Learner & Doer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadmujtaba200210&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadmujtaba200210" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on **backend projects**
+- 👯 I’m looking to collaborate on **backend & frontend projects**
 
 - 🤝 I’m looking for help with **learning Spring Boot**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mujtaba200210@gmail.com**
 
-- ⚡ Fun fact **I think I am collaborative**
+- ⚡ Fun fact **I am collaborative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
