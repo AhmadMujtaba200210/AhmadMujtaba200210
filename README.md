@@ -1,5 +1,5 @@
 ## Codewars:
-<img src="https://www.codewars.com/users/TheAlphaThings/badges/large"/>
+<img src="https://www.codewars.com/users/AhmadMujtaba200210/badges/small"/>
 
 # 💫 About Me:
 🔭 I’m currently working on <b>Spring/Spring Boot/Python</b><br>👯 I’m looking to collaborate on <b>Open Source</b><br>🤝 I’m looking for help with <b>Mathematics for Machine Learning</b><br>🌱 I’m currently learning <b>Software and Machine Learning</b> <br>💬 Ask me about <b>MySelf</b><br>⚡ Fun fact <b>I'm collaborative</b>
