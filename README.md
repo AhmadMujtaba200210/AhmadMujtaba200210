@@ -2,11 +2,11 @@
 <img src="https://www.codewars.com/users/AhmadMujtaba200210/badges/small"/>
 
 # 💫 About Me:
-🔭 I’m currently working on <b>Spring/Spring Boot/Python</b><br>👯 I’m looking to collaborate on <b>Open Source</b><br>🤝 I’m looking for help with <b>Mathematics for Machine Learning</b><br>🌱 I’m currently learning <b>Software and Machine Learning</b> <br>💬 Ask me about <b>MySelf</b><br>⚡ Fun fact <b>I'm collaborative</b>
+🔭 I’m currently working on <b>Quantitative Finance</b><br>👯 I’m looking to collaborate on <b>Systematic Trading Strategies</b><br>🤝 I’m looking for help with <b>Mathematics for Machine Learning in Finance</b><br>🌱 I’m currently doing <b>MS in Quantitative Finance</b> <br>💬 Ask me about <b>MySelf</b><br>⚡ Fun fact <b>I'm collaborative</b>
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmii_mujtaba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmad-mujtaba-b5b7a71b3/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmii_mujtaba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadmujtaba200210) 
 
 # 💻 Tech Stack:
 
